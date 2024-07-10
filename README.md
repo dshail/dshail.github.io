@@ -44,6 +44,3 @@
 
 ## Hobbies and Interests
 - Sports, Adventure (Hiking and Camping), Reading and Cooking
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/7813215/89a80f88-eb9f-49ef-847c-cd67cbce1da6/Shailendra_Dhakad_DSAI.pdf
