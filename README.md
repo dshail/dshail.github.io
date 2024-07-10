@@ -1,4 +1,4 @@
-# Data Science AI UnderGrad
+# Portfolio 
 
 ### Education
 - Bachelor of Technology in Artificial Intelligence and Data Science, Madhav Institute of Technology & Science, Gwalior (Nov 2021 - 2025), GPA: 7.7/10
